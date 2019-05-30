@@ -102,3 +102,4 @@ num_int, the string " times two is ", and the result of the calculation. Assumin
       Feet: 7333.26
       Miles: 1.389
       Furlongs: 11.111
+      Minutes to walk 444.44 rods: 26.882
