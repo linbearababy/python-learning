@@ -3,7 +3,7 @@
 """
 Created on Tue Sep 2018
 
-@author: linbarrybear
+@author: linbearbaby
 
 #############
 #computer project 01 
@@ -13,6 +13,7 @@ Created on Tue Sep 2018
 # convet its unit by math 
 # print them
 ##########
+
 num_1=input("Input rods: ")   #input a number as your distance
 n=float(num_1)#translate the input str into a float str
 you_input=n
